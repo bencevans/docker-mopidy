@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER pharsfalvi
+MAINTAINER bencevans
 
 RUN apt-get -q update
 
